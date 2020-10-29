@@ -1,6 +1,7 @@
 ### Здравствуйте 
 ☆☆Hi there 👋☆☆
-（●´▽`●）にぱー☆
+（●´▽`●）にぱー☆<br>
+![result](https://github.com/ms3nd3r/gif/blob/main/giphy.webp?raw=true)
 
 <!--
 **ms3nd3r/ms3nd3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
