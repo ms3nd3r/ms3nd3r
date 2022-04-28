@@ -1,6 +1,6 @@
-### Привет, мне нравятся Ранко, Анастасия и Минами.
-☆☆Hi there 👋☆☆
-（●´▽`●）にぱー☆<br>
+### よろしくお願いします。
+☆☆こんにちは☆☆
+<br>
 ![result](https://github.com/ms3nd3r/gif/blob/main/giphy.webp?raw=true)
 ![result2](https://github.com/ms3nd3r/gif/blob/main/200w.webp?raw=true)
 
